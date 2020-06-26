@@ -1,1 +1,14 @@
-Inital OTA Update
+-------------
+June 27, 2020
+-------------
+
+* realmeUI FW Support
+* Fixed Corner Paddings
+* Added Ambient as Gesture action (realme settings)
+* Fixed AUX lens access to 3rd party apps
+* Fingerprint Improvements
+* Added Fingerprint Animation from realmeUI
+* Enabled AlwaysOnDisplay
+* Fixed FOD on AOD
+* WiFi Optimizations
+* Added OTA Support
