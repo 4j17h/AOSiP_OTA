@@ -1,3 +1,37 @@
+----------------------
+August 12, 2020
+----------------------
+Device Side Changes:
+* Added F2FS support
+* Volume Panel improvements from PA
+* External Speaker can now be disabled in Dolby App
+* GameMode improvements (realme settings)
+* FOD speed improvements
+* SafetyNet is passed by default for Global & CN variants (Magisk is needed though)
+* Fixed 90 FPS in officially supported games for our device
+* Ambient display battery drain is fixed permanently (Drain which used to happen even if we didn't enable Ambient/AOD) 
+* Added Face Unlock (upon users request, yeah discord bois :P )
+* Replaced aosp Gallery with Gallery Go
+
+Source Side Changes:
+* August Security Patch
+* LatinIME theme updates
+* Fix freeform window moving/resizing doesn't work
+* package_whitelist: Whitelist QCOM FMRadio
+* Restore some fonts back to previous styles
+* Revert "Fix action bar font family on material themes"
+* Fix navbar when IME space is hidden
+* Update AOD title string
+* Fix theme for PostCallActivity
+* Dialer: Set default call recording audio source to VOICE_CALL
+* DeskClock font, icon updates and some fixes
+* Phone ringtone setting for Multi SIM device
+* SystemShortcut: Add uninstall option
+* A lot of launcher updates (for the non gapps builds)
+* Add protected apps in launcher
+* Fix action bar font family on material themes
+* Active Edge / Motion Sense cleanup
+
 -------------
 July 20, 2020
 -------------
